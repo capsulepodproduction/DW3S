@@ -11,6 +11,8 @@ group :production do
   gem 'pg'
 end
 
+gem 'sprockets_better_errors'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
